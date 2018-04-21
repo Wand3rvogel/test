@@ -1,0 +1,10 @@
+C:\Users\Phxadmin\Desktop\CSharpExample\bin\Debug\netcoreapp2.0\CSharpExample.deps.json
+C:\Users\Phxadmin\Desktop\CSharpExample\bin\Debug\netcoreapp2.0\CSharpExample.runtimeconfig.json
+C:\Users\Phxadmin\Desktop\CSharpExample\bin\Debug\netcoreapp2.0\CSharpExample.runtimeconfig.dev.json
+C:\Users\Phxadmin\Desktop\CSharpExample\bin\Debug\netcoreapp2.0\CSharpExample.dll
+C:\Users\Phxadmin\Desktop\CSharpExample\bin\Debug\netcoreapp2.0\CSharpExample.pdb
+C:\Users\Phxadmin\Desktop\CSharpExample\obj\Debug\netcoreapp2.0\CSharpExample.csproj.CoreCompileInputs.cache
+C:\Users\Phxadmin\Desktop\CSharpExample\obj\Debug\netcoreapp2.0\CSharpExample.AssemblyInfoInputs.cache
+C:\Users\Phxadmin\Desktop\CSharpExample\obj\Debug\netcoreapp2.0\CSharpExample.AssemblyInfo.cs
+C:\Users\Phxadmin\Desktop\CSharpExample\obj\Debug\netcoreapp2.0\CSharpExample.dll
+C:\Users\Phxadmin\Desktop\CSharpExample\obj\Debug\netcoreapp2.0\CSharpExample.pdb
