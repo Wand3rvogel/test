@@ -15,6 +15,7 @@ namespace CSharpExample
         {
             Console.ForegroundColor = ConsoleColor.Yellow;
             Console.WriteLine("Hello World!");
+            Console.WriteLine("New");
             Console.ResetColor();
             Console.WriteLine("Normal");
             ColoredConsoleWrite(ConsoleColor.Red, "Test");
